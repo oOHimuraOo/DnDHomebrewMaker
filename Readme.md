@@ -46,8 +46,11 @@ A sua raça é Ork, a sua classe é GOF ORK e seu antecedente é Perdido. Ou sej
 Um ORK não pode fazer multi-classe, um ORK não pode pegar talentos, ORK não pode ter inteligência maior do que 14, os atributos físicos (força, destreza e constituição) não sofrem a limitação de melhoria padrão.
 
 ### CARACTERÍSTICAS EQUIVALENTES A CARACTERÍSTICAS DE RAÇA
-- **Idade:** Ninguém sabe qual é a expectativa de vida de um ORK. Afinal, todos eles morreram em combate. Nunca um ORK morreu de velhice.
-- **Tamanho:** O tamanho do ORK varia de acordo com seu nível, conforme a tabela abaixo:
+- **Idade:** 
+Ninguém sabe qual é a expectativa de vida de um ORK. Afinal, todos eles morreram em combate. Nunca um ORK morreu de velhice.
+
+- **Tamanho:** 
+O tamanho do ORK varia de acordo com seu nível, conforme a tabela abaixo:
 
 | Tipo     | Tamanho | Altura         | Nível | Deslocamento |
 |----------|---------|----------------|-------|--------------|
@@ -56,15 +59,20 @@ Um ORK não pode fazer multi-classe, um ORK não pode pegar talentos, ORK não p
 | NOBZ     | Grande  | 1.9m a 2.2m    | 11 a 15| 12m         |
 | WARBOSS  | Enorme  | 2.3m a 3.5m    | 16 a 20| 15m         |
 
-- **Ih! olha só mais um ORK!**: Qualquer ORK pode gastar 2 semanas encasulado em um estado de suspensão dentro de uma gruta escura e úmida para gerar até 1d4 novos ORKs. O tipo do ORK que irá nascer dependerá basicamente do tipo do ORK que está gestando. Um ORK nunca pode gerar um ORK de um tipo mais poderoso que ele mesmo. A chance de nascimento é igual à porcentagem da quantidade de tipos que podem ser gerados. Exemplo: um Gretchin sempre irá gerar um Gretchin. Porém, um NOBZ terá 33% de chance de gerar Gretchin, um Boyz, Lootas ou Stormboys.
+- **Ih! olha só mais um ORK!**: 
+Qualquer ORK pode gastar 2 semanas encasulado em um estado de suspensão dentro de uma gruta escura e úmida para gerar até 1d4 novos ORKs. O tipo do ORK que irá nascer dependerá basicamente do tipo do ORK que está gestando. Um ORK nunca pode gerar um ORK de um tipo mais poderoso que ele mesmo. A chance de nascimento é igual à porcentagem da quantidade de tipos que podem ser gerados. Exemplo: um Gretchin sempre irá gerar um Gretchin. Porém, um NOBZ terá 33% de chance de gerar Gretchin, um Boyz, Lootas ou Stormboys.
 
-- **Cospe que sara!**: A regeneração de um ORK é algo impressionante, desde que ele consiga recuperar o membro que tenha sido decepado e faça um descanso curto com esse membro encostado no lugar adequado. O ferimento irá se fechar como se fosse outra ferida qualquer, deixando apenas uma enorme cicatriz na região.
+- **Cospe que sara!**: 
+A regeneração de um ORK é algo impressionante, desde que ele consiga recuperar o membro que tenha sido decepado e faça um descanso curto com esse membro encostado no lugar adequado. O ferimento irá se fechar como se fosse outra ferida qualquer, deixando apenas uma enorme cicatriz na região.
 
-- **O caminho do ORK é o único caminho!**: Um ORK, uma vez por descanso, antes de fazer uma rolagem de um teste de resistência ou uma verificação de habilidade e antes de descobrir a dificuldade, pode escolher ativar essa habilidade. O jogador poderá então considerar como se ele tivesse feito a rolagem e tirado 10 no dado. Todos os efeitos e penalidades ainda são aplicados como normalmente seriam, apenas o valor da rolagem é 10. A partir daquele momento, para os ORKs que viram o que aconteceu, isso se torna realidade. Ou seja, se você rolou e teve um sucesso, sempre que você puder rolar para realizar exatamente a mesma ação, você obterá um sucesso. Caso você tenha fracassado, você sempre irá fracassar. Isso acontece porque a realidade irá se moldar para justificar o resultado conforme o que o ORK acredita que é o certo.
+- **O caminho do ORK é o único caminho!**: 
+Um ORK, uma vez por descanso, antes de fazer uma rolagem de um teste de resistência ou uma verificação de habilidade e antes de descobrir a dificuldade, pode escolher ativar essa habilidade. O jogador poderá então considerar como se ele tivesse feito a rolagem e tirado 10 no dado. Todos os efeitos e penalidades ainda são aplicados como normalmente seriam, apenas o valor da rolagem é 10. A partir daquele momento, para os ORKs que viram o que aconteceu, isso se torna realidade. Ou seja, se você rolou e teve um sucesso, sempre que você puder rolar para realizar exatamente a mesma ação, você obterá um sucesso. Caso você tenha fracassado, você sempre irá fracassar. Isso acontece porque a realidade irá se moldar para justificar o resultado conforme o que o ORK acredita que é o certo.
 
-- **Idioma:** Sabe falar, ler e escrever Orkês.
+- **Idioma:** 
+Sabe falar, ler e escrever Orkês.
 
-- **Alinhamento:** Caótico.
+- **Alinhamento:** 
+Caótico.
 
 ### CARACTERÍSTICAS EQUIVALENTES A CARACTERÍSTICAS DE ANTECEDENTES
 
@@ -100,9 +108,9 @@ Todas.
 Todas.
 
 - **Starting Equipment**: 
-Escolha A ou B: 
-  - A) Choppas, Sluggas, 4x munições de Sluggas, 1x Cantil e 6 rações.
-  - B) Big Choppas, 2x Choppas, 15GP.
+    - Escolha A ou B: 
+        - A) Choppas, Sluggas, 4x munições de Sluggas, 1x Cantil e 6 rações.
+        - B) Big Choppas, 2x Choppas, 15GP.
 
 - **Multiclassing**: 
 Não pode fazer multi-classe.
@@ -142,13 +150,17 @@ Não pode fazer multi-classe.
   - **Sabotagem**:
     Um ORK pode gastar uma ação para sabotar algo. Ele nunca sabe qual é o efeito que está modificando, mas geralmente tende a explosões ou estilhaçamento de algo ou alguém. Quando essa habilidade é usada, o ORK acrescenta uma das 4 características da tabela abaixo ao que ele está tentando sabotar. Sempre que o item sabotado é manuseado, o efeito da sabotagem é ativado.
 
-    - **Superaquecimento**: o objeto sabotado torna-se incrivelmente quente, causando 1d4 de dano para cada vez que alguém começar ou terminar o turno em contato com o item. Ao final de cada turno, a pessoa segurando o item precisará fazer um teste de sorte; caso tire 16 ou mais, o efeito termina sem danificar o equipamento; de 7 a 15, o efeito permanece, mas não danifica o aparelho; de 1 a 6, o efeito termina e o item quebra. O objeto não pode estar em posse de alguma outra criatura ao ser sabotado.
+    - **Superaquecimento**: 
+    o objeto sabotado torna-se incrivelmente quente, causando 1d4 de dano para cada vez que alguém começar ou terminar o turno em contato com o item. Ao final de cada turno, a pessoa segurando o item precisará fazer um teste de sorte; caso tire 16 ou mais, o efeito termina sem danificar o equipamento; de 7 a 15, o efeito permanece, mas não danifica o aparelho; de 1 a 6, o efeito termina e o item quebra. O objeto não pode estar em posse de alguma outra criatura ao ser sabotado.
 
-    - **Estilhaçamento**: o objeto se quebra em pequenos e afiados pedaços que perfuram a mão de quem o segura, causando 1d6 de dano.
+    - **Estilhaçamento**: 
+    o objeto se quebra em pequenos e afiados pedaços que perfuram a mão de quem o segura, causando 1d6 de dano.
 
-    - **Explosão**: o objeto explode, causando 1d6 de dano a todos dentro de uma área de 6m de raio.
+    - **Explosão**: 
+    o objeto explode, causando 1d6 de dano a todos dentro de uma área de 6m de raio.
 
-    - **Desativação**: caso o objeto possua algum efeito ativo ou passivo, o efeito para de funcionar. Caso o objeto seja uma arma, ela começa a causar metade do dano normal.
+    - **Desativação**: 
+    caso o objeto possua algum efeito ativo ou passivo, o efeito para de funcionar. Caso o objeto seja uma arma, ela começa a causar metade do dano normal.
     
     | Efeito          | D4 |
     |-----------------|----|
@@ -191,23 +203,23 @@ Não pode fazer multi-classe.
     Ao atingir o sexto nível, o ORK passa por sua primeira grande mutação, o que faz seu corpo modificar drasticamente. Deixando de ser um Grotz e se tornando um Boyz, Lootas, Stormboys ou Mekboyz. O jogador deverá escolher um. Cada um deles possui 3 características especiais que diferenciam ele do resto.
     
     - **Tipo Boyz**:
-      - +1 de força
-      - Quando sob efeito de WAAAGH!, resistência a danos físicos mágicos e naturais
-      - +1 de força quando flanqueando ou flanqueado.
+        - +1 de força
+        - Quando sob efeito de WAAAGH!, resistência a danos físicos mágicos e naturais
+        - +1 de força quando flanqueando ou flanqueado.
 
     - **Tipo Lootas**:
-      - Vantagem ao atacar com armas de duas mãos
-      - Não sofre penalidades ao utilizar uma arma de um inimigo de categoria de tamanho maior, igual ou menor que a sua
-      - Vantagem ao atacar o inimigo com uma arma que antes era dele.
+        - Vantagem ao atacar com armas de duas mãos
+        - Não sofre penalidades ao utilizar uma arma de um inimigo de categoria de tamanho maior, igual ou menor que a sua
+        - Vantagem ao atacar o inimigo com uma arma que antes era dele.
 
   - **Tipo Stormboyz**:
-      - Troque o valor de seu maior atributo com o valor de destreza. Caso sua destreza seja o seu maior atributo, ganhe +1 de destreza.
-      - Ganhe 9m de deslocamento extra.
-      - Quando você surpreende um inimigo, você tem dois turnos de surpresa ao invés de um.
+        - Troque o valor de seu maior atributo com o valor de destreza. Caso sua destreza seja o seu maior atributo, ganhe +1 de destreza.
+        - Ganhe 9m de deslocamento extra.
+        - Quando você surpreende um inimigo, você tem dois turnos de surpresa ao invés de um.
 
     - **Tipo Mekboyz**:
-      - +1 de sabedoria.
-      - Você pode utilizar a habilidade "Magical Tinkering" como se fosse um Artificer com metade de seu nível.
+        - +1 de sabedoria.
+        - Você pode utilizar a habilidade "Magical Tinkering" como se fosse um Artificer com metade de seu nível.
 
 - **LEVEL 7**:
   - **Instinto ORK**:
