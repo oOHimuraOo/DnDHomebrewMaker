@@ -212,7 +212,7 @@ Não pode fazer multi-classe.
         - Não sofre penalidades ao utilizar uma arma de um inimigo de categoria de tamanho maior, igual ou menor que a sua
         - Vantagem ao atacar o inimigo com uma arma que antes era dele.
 
-  - **Tipo Stormboyz**:
+    - **Tipo Stormboyz**:
         - Troque o valor de seu maior atributo com o valor de destreza. Caso sua destreza seja o seu maior atributo, ganhe +1 de destreza.
         - Ganhe 9m de deslocamento extra.
         - Quando você surpreende um inimigo, você tem dois turnos de surpresa ao invés de um.
