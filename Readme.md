@@ -1,175 +1,63 @@
-# ORK - GOF ORK PERDIDO
+# ORK - LOST GOF ORK
 
-Embora possuam uma leve semelhança visual com os ORCs, os ORKs são fundamentalmente diferentes. Extremamente raros, os ORKs não fazem parte desta linha do tempo e nem deste lugar. No entanto, são guerreiros brutais e primitivos que lutaram em combates galácticos que fariam qualquer um duvidar da própria sanidade.
+Apesar de possuírem uma leve semelhança visual entre os ORKs e os ORCs, ambos são fundamentalmente diferentes. Os ORKs são extremamente raros, devido ao fato de não fazerem parte dessa linha do tempo e muito menos desse lugar. No entanto, os ORKs são guerreiros brutais e primitivos que lutaram em combates galácticos que fariam qualquer um duvidar da própria sanidade.
 
 ## ORIGEM
-A origem dos ORKs é envolta em mistérios e misticismo. Acredita-se que evoluíram de uma raça primitiva que sobreviveu à energia psíquica do Warp e foram usados como experimento científico para criar a máquina de guerra perfeita. Por isso, os ORKs amam tanto o combate; sua própria existência é definida pela vontade de lutar.
+A origem dos ORKs é envolta em mistérios e misticismo. Acredita-se que eles são uma evolução de uma raça primitiva que sobreviveu à energia psíquica do Warp e depois foi utilizada como experimento científico com o intuito de criar a máquina de guerra perfeita. Por isso, os ORKs amam tanto o combate: sua própria existência é definida pela vontade de lutar em uma guerra.
 
 ## SOCIEDADE
-Embora não exista uma sociedade ORK no mundo atual, isso não significa que um ORK não possua uma. Antes de chegar a este tempo e lugar desconhecidos, o ORK fazia parte de uma facção de ORKs combatentes conhecida como GOF ORK. O único objetivo da sociedade era buscar inimigos para uma batalha emocionante. Viajam pelos planos, planetas e cidades, lutando e conquistando. No campo de batalha, tudo é decidido: quem é o mais forte, o mais capaz, o mais competente. Faz parte de sua natureza.
+Apesar de não existir uma sociedade ORK no mundo, isso não significa que um ORK não possua uma sociedade. Antes de vir parar neste tempo e lugar desconhecidos, o ORK fazia parte de uma facção de ORKs combatentes conhecidos como GOF ORK. O único objetivo da sociedade era procurar inimigos para participar de emocionantes batalhas. Eles viajam pelos planos, planetas e cidades procurando, lutando e conquistando seus inimigos. O campo de batalha para um ORK é onde tudo é definido: quem é o mais forte, o mais capaz, o mais competente; enfim, tudo é decidido por conflitos e combates violentos. Faz parte da sua natureza.
 
-O líder atual era Ghazghku Thraka, um ORK conhecido como "Ghazghkull da Morte", que lidera a maior Waaagh! da história dos ORKs, famoso por sua brutalidade e capacidade de unir tribos sob seu comando.
+É impossível saber a situação atual da sua sociedade, porém, a informação mais fidedigna é que o líder atual era Ghazghku Thraka: um ORK conhecido como "Ghasghkull da Morte". Ele lidera a maior Waaagh! da história dos ORKs. É famoso por sua brutalidade e capacidade de unir tribos inteiras sob seu comando, causando destruição em vastas regiões.
 
 ## O QUE É UM ORK?
-Devido a manipulações genéticas, os ORKs hoje são mais próximos de fungos do que de criaturas humanoides convencionais. Sua rápida reprodução e evolução genética os ajudam a se adaptar rapidamente.
+Devido a uma série de manipulações genéticas, os ORKs são mais próximos de fungos do que de criaturas humanoides convencionais. A capacidade de reprodução rápida e a evolução genética ajudam-nos a se adaptar de maneira rápida e eficiente em qualquer lugar.
 
-Um ORK precisa ser "plantado" para gerar novos ORKs. Não precisam de parceiros para se reproduzir; fazem isso quando julgam adequado. Podem nascer com formas e características distintas, que podem ser modificadas se acreditarem não serem mais dignos de sua categoria atual.
+Quando chega o momento certo, um ORK precisa ser "plantado" para dar origem a novos ORKs. Um ORK não precisa de parceiro(a) para se reproduzir; ele simplesmente o faz quando julga que a hora é adequada. Os ORKs podem nascer com formas, cores e características distintas. Porém, até mesmo essas características podem ser modificadas caso o ORK acredite não ser mais digno de fazer parte da categoria atual.
 
-### Tipos de ORK:
+### Tipos de ORK
 1. Gretchin (GROTZ)
 2. Boyz, Lootas, Stormboys, Mekboyz
 3. Nobz
 4. Warboss
 
-Os ORKs julgam a força por tamanho e capacidade física. Gretchins são pequenos e semelhantes a goblins, enquanto Warbosses são enormes e lembram uma versão gigante de um ORC.
+Um ORK pode já nascer de um tipo ou se tornar dele posteriormente. Sempre que ele muda de tipo, suas características físicas também mudam. Os ORKs julgam a força de uma criatura por seu tamanho e capacidade física. Por isso, os Gretchins geralmente são pequenos e semelhantes aos goblins, enquanto o Warboss é enorme e lembra uma versão gigante de um ORC.
 
 ## RELIGIÃO
-Os ORKs são extremamente religiosos, idolatrando Gork e Mork. Embora aceitem a existência de inúmeros deuses, respeitam poucos. Gork é o deus da brutalidade e força bruta, enquanto Mork é o deus da astúcia e sagacidade.
+Os ORKs são extremamente religiosos e só idolatram dois deuses: Gork e Mork. Apesar de serem fiéis aos seus deuses, eles admitem a existência de inúmeros outros deuses e, embora não entendam por que as pessoas gostam de idolatrar deuses fracos, aceitam isso. Poucos são os deuses que conseguem conquistar o respeito de um ORK. Afinal, todo ORK sabe que Gork e Mork acompanham o caminho de cada um dos seus.
+
+**Gork** é o deus da brutalidade e da força bruta. Ele é visto como implacável, direto e feroz. Gork representa a força física, a violência descontrolada e a capacidade de esmagar inimigos com pura força.
+
+**Mork** é o deus da astúcia e da sagacidade. Ele é visto como um trapaceiro astuto, capaz de superar inimigos não apenas pela força, mas também pela inteligência e estratégia. Mork representa a habilidade de enganar, emboscar e derrotar inimigos com táticas inteligentes.
+
+Alguns descrevem a diferença entre Gork e Mork assim: Mork diz: "Ei, o que é aquilo ali?", e, quando você vira, ele te dá um soco no nariz. Gork diz: "Ei, olhe para mim!", e, quando você olha, ele te dá um soco ainda mais forte no nariz.
 
 ## CLASSE
-Um ORK não segue as classes convencionais deste plano. Seguem o caminho da brutalidade e mecânica duvidosa, tornando-se soldados, guerreiros ou bárbaros de habilidades extraordinárias.
+Um ORK não consegue se adaptar às classes impostas pela realidade deste plano. Eles apenas seguem o caminho que conhecem: o caminho da brutalidade irracional e da mecânica duvidosa. Para um ORK, sua realidade não está muito diferente do que era antes. Talvez um pouco mais monótona e entediante, mas definitivamente não muito diferente. No entanto, para todos que viram um ORK agindo, sempre ficou a dúvida: um soldado, guerreiro ou bárbaro sempre foi capaz de fazer isso? Estranho...
 
 ## ANTECEDENTE
-A existência de um ORK é extremamente rara. Para que um ORK chegue aqui, precisa de vários fatores influenciando sua jornada. Selecionados como munição de uma Shokk Attack defeituosa, Gretchins são lançados por uma rota aleatória do Warp, acidentalmente chegando ao plano atual. Ao passarem mais tempo no Warp, tornam-se menos agressivos, mas ainda desejam combate constante.
+A mera existência de um ORK no plano atual é algo absurdo e extremamente raro. Para que um ORK chegue até aqui, ele precisa de uma quantidade absurda de fatores influenciando tal feito. Os primeiros fatores se iniciam quando um Gretchin é selecionado como munição de uma Shokk Attack. Esse Gretchin é atirado por uma Shokk Attack um pouco mais defeituosa que o normal, o que faz com que ele siga por uma rota aleatória do Warp em vez da rota "planejada". Por uma coincidência do destino, essa rota acidental acaba sendo o plano atual.
+
+Como todo ORK, ele passou mais tempo do que o esperado no Warp. Ele fica ainda mais confuso do que o habitual, o que faz com que sua agressividade seja consideravelmente reduzida. Ele ainda a possui como centro e essência do seu ser, mas agora ele não precisa estar constantemente em combate; ele apenas quer estar constantemente em combate.
 
 ## MECÂNICA ESPECIAL DE JOGO
-A raça é ORK, a classe é GOF ORK e o antecedente é perdido. Um jogador que escolhe ser um ORK não pode escolher raça, classe ou antecedente; ele simplesmente será um ORK.
+A sua raça é ORK, a sua classe é GOF ORK e seu antecedente é lost. Ou seja, um jogador que vá jogar como um ORK não poderá escolher uma raça, classe ou antecedente. Ele simplesmente será um ORK.
 
-Um ORK não pode fazer multi-classe, pegar talentos ou ter inteligência maior que 14. Seus atributos físicos (força, destreza e constituição) não sofrem a limitação de melhoria padrão.
+Um ORK não pode fazer multi-classe, não pode pegar talentos, não pode ter inteligência maior do que 14, e os atributos físicos (força, destreza e constituição) não sofrem a limitação de melhoria padrão.
 
-### CARACTERÍSTICAS DE RAÇA
-- **Idade:** Ninguém sabe a expectativa de vida de um ORK. Todos morrem em combate.
-- **Tamanho:** Varia de acordo com o nível:
+### CARACTERÍSTICAS EQUIVALENTES A CARACTERÍSTICAS DE RAÇA
+- **Idade:** Ninguém sabe qual é a expectativa de vida de um ORK. Afinal, todos eles morreram em combate. Nunca um ORK morreu de velhice.
+- **Tamanho:** O tamanho do ORK varia de acordo com seu nível, conforme a tabela abaixo:
 
-| Tipo     | Tamanho | Altura         | Nível  | Deslocamento |
-|----------|---------|----------------|--------|--------------|
-| GROTZ    | Pequeno | 91cm a 106cm   | 1 a 5  | 6m           |
-| BOYZ     | Médio   | 1,6m a 1,8m    | 6 a 10 | 9m           |
-| NOBZ     | Grande  | 1,9m a 2,2m    | 11 a 15| 12m          |
-| WARBOSS  | Enorme  | 2,3m a 3,5m    | 16 a 20| 15m          |
+| Tipo     | Tamanho | Altura         | Nível | Deslocamento |
+|----------|---------|----------------|-------|--------------|
+| GROTZ    | Pequeno | 91cm a 106cm   | 1 a 5 | 6m           |
+| BOYZ     | Médio   | 1.6m a 1.8m    | 6 a 10| 9m           |
+| NOBZ     | Grande  | 1.9m a 2.2m    | 11 a 15| 12m         |
+| WARBOSS  | Enorme  | 2.3m a 3.5m    | 16 a 20| 15m         |
 
-- **Ih! olha só mais um ORK!**: Qualquer ORK pode gastar 2 semanas encasulado em uma gruta escura e úmida para gerar até 1d4 novos ORKs. O tipo gerado depende do tipo do ORK gestante. Um ORK nunca gera um tipo mais poderoso que ele. Exemplo: um Gretchin sempre gera um Gretchin. Um NOBZ tem 33% de chance de gerar Gretchin, Boyz, Lootas ou Stormboys.
+- **Ih! olha só mais um ORK!**: Qualquer ORK pode gastar 2 semanas encasulado em um estado de suspensão dentro de uma gruta escura e úmida para gerar até 1d4 novos ORKs. O tipo do ORK que irá nascer dependerá basicamente do tipo do ORK que está gestando. Um ORK nunca pode gerar um ORK de um tipo mais poderoso que ele mesmo. A chance de nascimento é igual à porcentagem da quantidade de tipos que podem ser gerados. Exemplo: um Gretchin sempre irá gerar um Gretchin. Porém, um NOBZ terá 33% de chance de gerar Gretchin, um Boyz, Lootas ou Stormboys.
 
-- **Cospe que sara!**: ORKs têm regeneração impressionante. Desde que recuperem o membro decepado e façam um descanso curto com o membro no lugar, o ferimento se fecha como qualquer outra ferida, deixando uma cicatriz.
+- **Cospe que sara!**: A regeneração de um ORK é algo impressionante, desde que ele consiga recuperar o membro que tenha sido decepado e faça um descanso curto com esse membro encostado no lugar adequado. O ferimento irá se fechar como se fosse outra ferida qualquer, deixando apenas uma enorme cicatriz na região.
 
-- **O caminho do ORK é o único caminho!**: Uma vez por descanso, antes de uma rolagem de teste de resistência ou verificação de habilidade, o ORK pode considerar que tirou 10 no dado. O resultado se torna realidade para os ORKs que viram o que aconteceu. Se foi um sucesso, sempre será; se foi um fracasso, sempre será. A realidade se molda conforme o que o ORK acredita.
-
-- **Idioma:** Fala, lê e escreve Orkês.
-- **Alinhamento:** Caótico.
-
-### CARACTERÍSTICAS DE ANTECEDENTES
-- **UM IDIOMA BASTA**: Um ORK entende qualquer idioma falado, apesar de só falar, ler e escrever Orkês. Quem escuta um ORK entende como se ele falasse comum. A criatura precisa entender comum ou Orkês para compreender o ORK. Orkês e órquico são diferentes.
-
-### CARACTERÍSTICAS DE CLASSE
-- **Habilidade Primária:** Escolha entre Força ou Sabedoria.
-- **Hit Point Die:** D12 por nível.
-- **Hit Point no Nível 1:** 12 + Con.Mod + Prof.
-- **Hit Point por Nível Adicional:** D12 + Con.Mod + Prof.
-- **Saving Throw Proficiencies:** Escolha entre Força e Constituição ou Força e Sabedoria.
-- **Skill Proficiencies:** Escolha 2: Animal Handling, Atletismo, Intimidação, Natureza, Percepção ou Sobrevivência.
-- **Weapon Proficiencies:** Todas.
-- **Armor Training:** Todas.
-- **Starting Equipment:** Escolha A ou B:
-  - A) Choppas, Sluggas, 4x munições de Sluggas, 1x Cantil e 6 rações.
-  - B) Big Choppas, 2x Choppas, 15GP.
-- **Multiclassing:** Não pode fazer multi-classe.
-
-#### ORK TYPE -> GROTZ
-- **LEVEL 1:**
-  - **Escaramuça:** Um ORK faz uma investida até um alvo dentro do alcance e realiza um ataque extra. Deve se movimentar pelo menos 2 quadrados para ativar.
-  - **WAAAGH!**: Com menos da metade de vida, entra em um estado de frenesi. Ganha resistência a danos físicos não mágicos, bônus de dano (1 + 1 para cada 10 pontos de vida extra perdidos desde a ativação), vantagem em testes de resistência e verificações de força. Não pode manter a concentração. Dura até eliminar todos os inimigos, o ORK morrer, ficar inconsciente ou recuperar mais da metade da vida.
-  - **Sabotagem:** Gasta uma ação para sabotar algo, causando efeitos como superaquecimento, estilhaçamento, explosão ou desativação. 
-
-    | Efeito           | D4 |
-    |------------------|----|
-    | Superaquecimento |  1 |
-    | Estilhaçamento   |  2 |
-    | Explosão         |  3 |
-    | Desativação      |  4 |
-
-- **LEVEL 2:**
-  - **Amor por Batalha:** Se pego de surpresa, inicia o combate com efeitos de WAAAGH!
-  - **Uhh! Olha Essa Costelinha!**: Se um oponente adjacente atacar outro alvo, precisa passar em um teste de destreza ou receberá dano equivalente a um ataque básico do ORK.
-
-- **LEVEL 3:**
-  - **Manutenção Básica:** Repara itens quebrados com efeitos colaterais como uma das sabotagens, dano ao usuário, funcionamento aleatório ou uso único.
-  - **Conhecimento Primordial:** Ganha proficiência em uma perícia ou expertise em uma que já possua.
-
-- **LEVEL 4:**
-  - **Melhoria de Atributo Primário:** Melhora seu atributo primário em +3.
-
-- **LEVEL 5:**
-  - **Ataque Extra:** Pode fazer um ataque extra ao utilizar sua ação para atacar.
-  - **Escaramuça Aprimorada:** Ao utilizar a habilidade Escaramuça, pode causar dano em todos os inimigos adjacentes que tenham menos CA do que o valor que você tirou ao rolar o ataque no primeiro alvo.
-
-- **LEVEL 6:**
-  - **Mutação I:** Ao atingir o sexto nível, passa por sua primeira grande mutação, modificando seu corpo drasticamente. Escolha entre Boyz, Lootas, Stormboys ou Mekboyz. Cada um possui 3 características especiais.
-
-    - **Tipo Boyz:**
-      - +1 de Força.
-      - Quando sob efeito de WAAAGH!, resistência a danos físicos mágicos e naturais.
-      - +1 de Força quando flanqueando ou flanqueado.
-    - **Tipo Lootas:**
-      - Vantagem ao atacar com armas de duas mãos.
-      - Não sofre penalidades ao utilizar uma arma de um inimigo de categoria de tamanho maior, igual ou menor que a sua.
-      - Vantagem ao atacar o inimigo com uma arma que antes era dele.
-    - **Tipo Stormboys:**
-      - Troque o valor de seu maior atributo com o valor de Destreza. Caso Destreza seja o maior, ganhe +1 de Destreza.
-      - Ganhe 9m de deslocamento extra.
-      - Quando surpreende um inimigo, tem dois turnos de surpresa ao invés de um.
-    - **Tipo Mekboyz:**
-      - +1 de Sabedoria.
-      - Pode usar a habilidade "Magical Tinkering" como um Artificer com metade de seu nível.
-
-- **LEVEL 7:**
-  - **Instinto ORK:** Vantagem nas rolagens de iniciativa, mesmo quando pego de surpresa.
-  - **Instinto WAAAGH!:** Ao ativar WAAAGH!, pode gastar a reação para andar o deslocamento até um alvo ou realizar um ataque básico contra um alvo adjacente.
-
-- **LEVEL 8:**
-  - **Melhoria de Atributo:** Melhora 1 ponto em 2 atributos ou 2 pontos em 1 atributo de sua escolha.
-
-- **LEVEL 9:** 
-  - **Trespassar:** Sempre que um ataque faz um oponente chegar a 0 ou menos pontos de vida, ganha um ataque extra contra um alvo que ainda não tenha atacado nesse turno.
-
-- **LEVEL 10:**
-  - **Tipo Boyz:**
-    - +3 de Força.
-  - **Tipo Lootas:**
-    - Ao realizar um ataque com arma de duas mãos ou uma arma de um inimigo, some proficiência ao dano.
-  - **Tipo Stormboys:**
-    - Ganhe 9m de deslocamento extra.
-  - **Tipo Mekboyz:**
-    - Some modificador de Sabedoria na rolagem de dano.
-
-- **LEVEL 11:**
-  - **Mutação II:** Ao atingir o 11º nível, passa por sua segunda mutação, tornando-se mais ameaçador.
-  - **Grito WAAAGH!:** Quando ativa WAAAGH!, todos os aliados que possam ouvir recebem bônus nas rolagens de dano igual ao modificador de Sabedoria. O efeito permanece enquanto estiver sob efeito de WAAAGH!.
-
-- **LEVEL 12:**
-  - **Melhoria de Atributo Primário:** Melhora o atributo primário em +3. Caso Sabedoria esteja maximizada, pode colocar 2 pontos em um atributo ou 1 ponto em dois atributos (excluindo os mentais já maximizados).
-
-- **LEVEL 13:** 
-  - **Ataque Devastador:** Em um sucesso decisivo, rola o dobro dos dados padrão de um ataque crítico. Ex: se normalmente rolaria 2d10, rolará 4d10.
-
-- **LEVEL 14:**
-  - **Grito WAAAGH! Aprimorado:** Quando ativa WAAAGH!, todos os inimigos que possam ouvir/ver fazem teste de resistência de Sabedoria (CD = 10 + mod. Sabedoria) ou recebem penalidade nas rolagens de dano igual ao mod. Sabedoria. O efeito persiste enquanto estiver sob efeito de WAAAGH!.
-
-- **LEVEL 15:**
-  - **Ataque Extra:** Pode fazer um ataque extra ao utilizar sua ação para atacar.
-
-- **LEVEL 16:**
-  - **Mutação III:** Torna-se uma aberração da natureza, um Warboss.
-  - **Comandante da WAAAGH!:** Ao iniciar um combate, pode sacrificar metade dos pontos de vida para entrar em WAAAGH!. Todos os aliados que possam ver/ouvir recebem pontos de vida temporários igual ao total de pontos de vida sacrificado dividido pelo número de aliados. Mínimo de 10 pontos de vida temporários por aliado.
-  - **Melhoria de Atributo:** Pode aumentar um atributo em 2 pontos ou dois atributos em 1 ponto cada.
-
-- **LEVEL 17:**
-  - **Ataque Devastador Aprimorado:** O dano mínimo do ataque devastador é igual a metade do dano máximo que causaria.
-
-- **LEVEL 18:**
-  - Ao realizar uma verificação de habilidade ou teste de resistência do atributo primário, caso tire 10 ou menos, considere 10.
-
-- **LEVEL 19:**
-  - Sob efeito de WAAAGH!, ao rolar um dado, some bônus igual ao número de aliados que ainda tenham pontos de vida temporários.
-
-- **LEVEL 20:**
-  - **Comandante da WAAAGH! Aprimorado:** Na primeira rodada do combate, todos os aliados têm bônus de dano igual ao número de aliados no combate, e todos os inimigos recebem penalidade de dano igual ao número de aliados. Se houver mais de um ORK aliado no campo de batalha, ele pode ter um turno de vantagem como se tivesse pegado o inimigo de surpresa.
+- **O caminho do ORK é o único caminho!**: Um ORK, uma vez por descanso, antes de fazer uma rolagem de um teste de resistência ou uma verificação de habilidade e antes de descobrir a dificuldade, pode
