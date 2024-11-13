@@ -1,4 +1,4 @@
-# ORK - LOST GOF ORK
+# ORK - GOF ORK PERDIDO
 
 Apesar de possuir uma leve semelhança visual entre os ORKs e os ORCs, ambos são fundamentalmente diferentes uns dos outros. Os ORKs são extremamente raros, isso se deve ao fato de que eles não fazem parte dessa linha do tempo e nem muito menos desse lugar. Mas ainda assim, os ORKs são guerreiros brutais e primitivos que lutaram em combates galácticos que fariam qualquer um duvidar da própria sanidade.
 
@@ -41,7 +41,7 @@ A mera existência de um ORK no plano atual é algo absurdo e extremamente raro.
 Como todo ORK, ele passou mais tempo do que o esperado no Warp. Ele fica ainda mais confuso do que o habitual, o que faz com que sua agressividade seja consideravelmente reduzida. Ele ainda possui ela como centro e essência do seu ser, porém agora ele não precisa estar constantemente em combate, ele apenas quer estar constantemente em combate.
 
 ## MECÂNICA ESPECIAL DE JOGO
-A sua raça é Ork, a sua classe é GOF ORK e seu antecedente é lost. Ou seja, um jogador que vá jogar como um ORK não poderá escolher uma raça, nem classe e nem um antecedente. Ele simplesmente será um ORK.
+A sua raça é Ork, a sua classe é GOF ORK e seu antecedente é Perdido. Ou seja, um jogador que vá jogar como um ORK não poderá escolher uma raça, nem classe e nem um antecedente. Ele simplesmente será um ORK.
 
 Um ORK não pode fazer multi-classe, um ORK não pode pegar talentos, ORK não pode ter inteligência maior do que 14, os atributos físicos (força, destreza e constituição) não sofrem a limitação de melhoria padrão.
 
@@ -107,7 +107,7 @@ Escolha A ou B:
 - **Multiclassing**: 
 Não pode fazer multi-classe.
 
-# Tabela de Classe: ORK - GOF ORK PERDIDO
+# Tabela de ORK - GOF ORK PERDIDO
 
 | Nível | Proficiência | Habilidades                                   | Mutação    | Tipo                             |
 |-------|---------------|---------------------------------------------|------------|----------------------------------|
