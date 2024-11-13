@@ -117,15 +117,15 @@ Não pode fazer multi-classe.
 | 4     | +2            | Melhoria de Atributo Primário               | -          | Grotz                             |
 | 5     | +3            | Ataque Extra, Escaramuça Aprimorada         | -          | Grotz                             |
 | 6     | +3            | -                                           | Mutação I  | Boyz, Lootas, Stormboys, Mekboyz |
-| 7     | +3            | Instinto ORK, Instinto WAAAGH!              | -          |                                 - |
-| 8     | +3            | Melhoria de Atributo                        | -          |                                  |
-| 9     | +4            | Trespassar                                  | -          |                                  |
+| 7     | +3            | Instinto ORK, Instinto WAAAGH!              | -          | Boyz, Lootas, Stormboys, Mekboyz |
+| 8     | +3            | Melhoria de Atributo                        | -          | Boyz, Lootas, Stormboys, Mekboyz |
+| 9     | +4            | Trespassar                                  | -          | Boyz, Lootas, Stormboys, Mekboyz |
 | 10    | +4            | -                                           | Mutação II | Boyz, Lootas, Stormboys, Mekboyz |
-| 11    | +4            | Grito WAAAGH!                               | -          | Boyz, Lootas, Stormboys, Mekboyz |
-| 12    | +4            | Melhoria de Atributo Primário               | -          |                                  |
-| 13    | +5            | Ataque Devastador                           | -          |                                  |
-| 14    | +5            | Grito WAAAGH! Aprimorado                    | -          |                                  |
-| 15    | +5            | Ataque Extra                                | -          |                                  |
+| 11    | +4            | Grito WAAAGH!                               | -          | Nobz |
+| 12    | +4            | Melhoria de Atributo Primário               | -          | Nobz |
+| 13    | +5            | Ataque Devastador                           | -          | Nobz |
+| 14    | +5            | Grito WAAAGH! Aprimorado                    | -          | Nobz |
+| 15    | +5            | Ataque Extra                                | -          | Nobz |
 | 16    | +5            | -                                           | Mutação III| Warboss                          |
 | 17    | +6            | Ataque Devastador Aprimorado                | -          | Warboss                          |
 | 18    | +6            | Verificação de Habilidade/Tes de Resistência, 10 ou mais | -          | Warboss |
